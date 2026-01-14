@@ -1,4 +1,360 @@
 companies:
+  # Big Tech / Global MNCs
   - name: Google India
     careers_url: https://careers.google.com/jobs/results/?location=India
     keywords: [python, ai, data]
+
+  - name: Microsoft India
+    careers_url: https://jobs.careers.microsoft.com/global/en/search?lc=India
+    keywords: [python, data, backend]
+
+  - name: Amazon India
+    careers_url: https://www.amazon.jobs/en/locations/india
+    keywords: [python, backend, data]
+
+  - name: Meta
+    careers_url: https://www.metacareers.com/jobs/
+    keywords: [python, ai]
+
+  - name: Apple India
+    careers_url: https://jobs.apple.com/en-in/search
+    keywords: [python, data]
+
+  - name: IBM India
+    careers_url: https://www.ibm.com/careers/in-en
+    keywords: [python, ai, data]
+
+  - name: Oracle India
+    careers_url: https://www.oracle.com/careers/
+    keywords: [python, backend]
+
+  - name: SAP India
+    careers_url: https://jobs.sap.com/search/?location=India
+    keywords: [python, data]
+
+  - name: Adobe India
+    careers_url: https://careers.adobe.com/us/en/search-results
+    keywords: [python, ai, data]
+
+  - name: Salesforce India
+    careers_url: https://careers.salesforce.com/en/jobs/
+    keywords: [python, backend]
+
+  # Indian Product / Unicorns
+  - name: Flipkart
+    careers_url: https://www.flipkartcareers.com/
+    keywords: [python, backend, data]
+
+  - name: Myntra
+    careers_url: https://careers.myntra.com/
+    keywords: [python, backend]
+
+  - name: Swiggy
+    careers_url: https://careers.swiggy.com/
+    keywords: [python, data]
+
+  - name: Zomato
+    careers_url: https://www.zomato.com/careers
+    keywords: [python, backend]
+
+  - name: PhonePe
+    careers_url: https://www.phonepe.com/careers/
+    keywords: [python, backend]
+
+  - name: Paytm
+    careers_url: https://paytm.com/careers/
+    keywords: [python, backend]
+
+  - name: Razorpay
+    careers_url: https://razorpay.com/jobs/
+    keywords: [python, backend]
+
+  - name: Groww
+    careers_url: https://groww.in/careers
+    keywords: [python, data]
+
+  - name: Meesho
+    careers_url: https://careers.meesho.com/
+    keywords: [python, backend]
+
+  - name: Ola
+    careers_url: https://www.olacabs.com/careers
+    keywords: [python, data]
+
+  - name: OYO
+    careers_url: https://www.oyorooms.com/careers/
+    keywords: [python, backend]
+
+  # SaaS / Enterprise / India-heavy
+  - name: Freshworks
+    careers_url: https://www.freshworks.com/company/careers/
+    keywords: [python, backend]
+
+  - name: Zoho
+    careers_url: https://www.zoho.com/careers.html
+    keywords: [python, backend]
+
+  - name: InMobi
+    careers_url: https://www.inmobi.com/company/careers/
+    keywords: [python, data]
+
+  - name: BrowserStack
+    careers_url: https://www.browserstack.com/careers
+    keywords: [python, backend]
+
+  - name: Postman
+    careers_url: https://www.postman.com/company/careers/
+    keywords: [python, backend]
+
+  - name: Chargebee
+    careers_url: https://www.chargebee.com/careers/
+    keywords: [python, backend]
+
+  - name: HackerRank
+    careers_url: https://www.hackerrank.com/careers
+    keywords: [python, backend]
+
+  - name: Practo
+    careers_url: https://www.practo.com/company/careers
+    keywords: [python, backend]
+
+  # AI / Data / GenAI Focused
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    keywords: [python, ai, ml]
+
+  - name: Anthropic
+    careers_url: https://www.anthropic.com/careers
+    keywords: [python, ai]
+
+  - name: Cohere
+    careers_url: https://cohere.com/careers
+    keywords: [python, ai]
+
+  - name: Hugging Face
+    careers_url: https://huggingface.co/jobs
+    keywords: [python, ai, ml]
+
+  - name: DataBricks
+    careers_url: https://www.databricks.com/company/careers
+    keywords: [python, data]
+
+  - name: Snowflake
+    careers_url: https://careers.snowflake.com/
+    keywords: [python, data]
+
+  - name: Scale AI
+    careers_url: https://scale.com/careers
+    keywords: [python, ai]
+
+  # Consulting / Tech Services (selective, not body shops)
+  - name: ThoughtWorks
+    careers_url: https://www.thoughtworks.com/careers
+    keywords: [python, backend]
+
+  - name: Publicis Sapient
+    careers_url: https://careers.publicissapient.com/
+    keywords: [python, backend]
+
+  - name: Globant
+    careers_url: https://www.globant.com/careers
+    keywords: [python, backend]
+
+  - name: EPAM
+    careers_url: https://www.epam.com/careers
+    keywords: [python, backend]
+
+  - name: Nagarro
+    careers_url: https://www.nagarro.com/en/careers
+    keywords: [python, backend]
+
+  # Startups / Remote-friendly
+  - name: Atlassian
+    careers_url: https://www.atlassian.com/company/careers
+    keywords: [python, backend]
+
+  - name: GitLab
+    careers_url: https://about.gitlab.com/jobs/
+    keywords: [python, backend]
+
+  - name: Automattic
+    careers_url: https://automattic.com/work-with-us/
+    keywords: [python, backend]
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs
+    keywords: [python, backend]
+
+  - name: Shopify
+    careers_url: https://www.shopify.com/careers
+    keywords: [python, backend]
+
+  # Fintech / Payments / Finance
+  - name: Stripe India
+    careers_url: https://stripe.com/jobs
+    keywords: [python, backend, data]
+
+  - name: PayPal
+    careers_url: https://www.paypal.com/us/webapps/mpp/jobs
+    keywords: [python, backend]
+
+  - name: Square
+    careers_url: https://careers.squareup.com/
+    keywords: [python, backend]
+
+  - name: Intuit
+    careers_url: https://careers.intuit.com/
+    keywords: [python, data]
+
+  - name: Wise
+    careers_url: https://www.wise.jobs/
+    keywords: [python, backend]
+
+  - name: Revolut
+    careers_url: https://www.revolut.com/careers/
+    keywords: [python, backend]
+
+  - name: CRED
+    careers_url: https://careers.cred.club/
+    keywords: [python, backend]
+
+  - name: Zerodha
+    careers_url: https://zerodha.com/careers/
+    keywords: [python, backend, data]
+
+  - name: Upstox
+    careers_url: https://upstox.com/careers/
+    keywords: [python, backend]
+
+  # Data / Analytics / Infra
+  - name: Palantir
+    careers_url: https://www.palantir.com/careers/
+    keywords: [python, data]
+
+  - name: Confluent
+    careers_url: https://www.confluent.io/careers/
+    keywords: [python, data]
+
+  - name: Elastic
+    careers_url: https://www.elastic.co/careers
+    keywords: [python, data]
+
+  - name: MongoDB
+    careers_url: https://www.mongodb.com/careers
+    keywords: [python, data]
+
+  - name: Redis
+    careers_url: https://redis.io/careers/
+    keywords: [python, backend]
+
+  - name: Cloudera
+    careers_url: https://www.cloudera.com/careers.html
+    keywords: [python, data]
+
+  # Cloud / DevOps / Platforms
+  - name: DigitalOcean
+    careers_url: https://www.digitalocean.com/careers
+    keywords: [python, backend]
+
+  - name: HashiCorp
+    careers_url: https://www.hashicorp.com/careers
+    keywords: [python, backend]
+
+  - name: Cloudflare
+    careers_url: https://www.cloudflare.com/careers/
+    keywords: [python, backend]
+
+  - name: Red Hat
+    careers_url: https://www.redhat.com/en/jobs
+    keywords: [python, backend]
+
+  - name: Canonical
+    careers_url: https://canonical.com/careers
+    keywords: [python, backend]
+
+  # Indian Startups (mid-size, realistic hiring)
+  - name: Udaan
+    careers_url: https://careers.udaan.com/
+    keywords: [python, backend]
+
+  - name: Lenskart
+    careers_url: https://hiring.lenskart.com/
+    keywords: [python, backend]
+
+  - name: Delhivery
+    careers_url: https://www.delhivery.com/careers/
+    keywords: [python, data]
+
+  - name: PolicyBazaar
+    careers_url: https://www.policybazaar.com/careers/
+    keywords: [python, backend]
+
+  - name: Urban Company
+    careers_url: https://careers.urbancompany.com/
+    keywords: [python, backend]
+
+  - name: Dunzo
+    careers_url: https://www.dunzo.com/careers
+    keywords: [python, backend]
+
+  - name: Cars24
+    careers_url: https://careers.cars24.com/
+    keywords: [python, backend, data]
+
+  - name: ShareChat
+    careers_url: https://sharechat.com/careers
+    keywords: [python, backend]
+
+  - name: Moj
+    careers_url: https://sharechat.com/careers
+    keywords: [python, backend]
+
+  # Global Remote-first / Startup-friendly
+  - name: Zapier
+    careers_url: https://zapier.com/jobs
+    keywords: [python, backend]
+
+  - name: Buffer
+    careers_url: https://buffer.com/journey
+    keywords: [python, backend]
+
+  - name: Basecamp
+    careers_url: https://basecamp.com/about/jobs
+    keywords: [python, backend]
+
+  - name: Doist
+    careers_url: https://doist.com/careers
+    keywords: [python, backend]
+
+  - name: Turing
+    careers_url: https://www.turing.com/careers
+    keywords: [python, backend]
+
+  - name: Deel
+    careers_url: https://www.deel.com/careers
+    keywords: [python, backend]
+
+  - name: Remote
+    careers_url: https://remote.com/careers
+    keywords: [python, backend]
+
+  # AI / ML / Applied Research (smaller but strong)
+  - name: Eightfold AI
+    careers_url: https://eightfold.ai/careers/
+    keywords: [python, ai]
+
+  - name: Fractal Analytics
+    careers_url: https://fractal.ai/careers/
+    keywords: [python, data, ai]
+
+  - name: SigTuple
+    careers_url: https://sigtuple.com/careers/
+    keywords: [python, ai]
+
+  - name: Mad Street Den
+    careers_url: https://madstreetden.com/careers/
+    keywords: [python, ai]
+
+  - name: Uniphore
+    careers_url: https://www.uniphore.com/careers/
+    keywords: [python, ai]

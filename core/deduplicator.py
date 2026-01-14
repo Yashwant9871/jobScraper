@@ -1,2 +1,8 @@
 import hashlib
-def job_hash(j): return hashlib.md5(f"{j['title']}{j['company']}{j['location']}".encode()).hexdigest()
+
+def normalize(text):
+    return text.lower().replace('senior','').replace('jr','').strip()
+
+def job_hash(j):
+    base = f"{normalize(j['title'])}{j['company']}{j['url']}"
+    return hashlib.md5(base.encode()).hexdigest()
