@@ -1,2 +1,33 @@
+# Environment variables
 .env
+
+# Runtime state
 state.json
+
+# Logs
+logs/
+logs/*.csv
+logs/*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
